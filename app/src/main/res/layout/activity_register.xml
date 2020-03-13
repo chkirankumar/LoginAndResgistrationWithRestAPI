@@ -54,7 +54,7 @@
             android:textColor="@color/input_register"
             android:textColorHint="@color/input_register_hint" />
 
-        <!-- Login Button -->
+        <!-- Registration Button -->
 
         <Button
             android:id="@+id/btnRegister"
